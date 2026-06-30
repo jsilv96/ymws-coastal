@@ -1,0 +1,22 @@
+{
+  "name": "Oliva & Mare",
+  "short_name": "Oliva & Mare",
+  "description": "Modern Mediterranean fine dining in Seabrook, CA — coastal classics, wood-fired seafood, and Aegean wines.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5efe4",
+  "theme_color": "#0d1f26",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
